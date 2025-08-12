@@ -6,7 +6,7 @@ This was my first frontend project, created to practice and strengthen my HTML &
 ---
 
 ## 📸 Demo
-![Screenshot](AmazonFinal/Images/ScreenshotFullView.png) 
+![Screenshot](ScreenshotFullView.png) 
 
 ---
 
